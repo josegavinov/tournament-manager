@@ -18,8 +18,8 @@ staticfiles/
 
 # Migrations (opcional)
 # Si quieres mantenerlas, comenta esta línea
-*/migrations/*.py
-*/migrations/__init__.py
+#*/migrations/*.py
+#*/migrations/__init__.py
 
 # PyCharm
 .idea/
